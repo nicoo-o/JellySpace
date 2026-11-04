@@ -11,7 +11,7 @@
   designed for the couch as much as the desk.
 
   <p align="center">
-    <a href="https://github.com/nicoo-o/SpaceHub/actions/workflows/ci.yml"><img src="https://github.com/nicoo-o/SpaceHub/actions/workflows/ci.yml/badge.svg" alt="CI status"/></a>
+    <a href="https://github.com/nicoo-o/JellySpace/actions/workflows/ci.yml"><img src="https://github.com/nicoo-o/JellySpace/actions/workflows/ci.yml/badge.svg" alt="CI status"/></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge&color=0A84FF" alt="License GPL-3.0"/></a>
     <a href="https://jellyfin.org"><img src="https://img.shields.io/badge/Jellyfin-10.8%2B-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white" alt="Jellyfin 10.8+"/></a>
     <img src="https://img.shields.io/badge/Chromium-69%2B%20·%20TVs%202020%2B-30D158?style=for-the-badge" alt="Chromium 69+ · TVs 2020+"/>
@@ -89,7 +89,7 @@ SpaceHub ships three ways — pick the one that fits your device. All come
 from the same codebase and the same verification chain.
 
 **Option A — installable packages (newest, easiest):** from the
-[**Releases**](https://github.com/nicoo-o/SpaceHub/releases) page, grab
+[**Releases**](https://github.com/nicoo-o/JellySpace/releases) page, grab
 `spacehub-vX.Y.Z.apk` for Android phones and Android TV, or
 `SpaceHub-Setup-X.Y.Z.exe` (installer) / `SpaceHub-X.Y.Z-portable.exe`
 (no install) for Windows. SHA-256 checksums are attached next to each
@@ -105,7 +105,7 @@ SmartScreen shows a one-time warning, choose « More info → Run anyway »
 
 **1. Download** the archive (`spacehub-vX.Y.Z.zip`) from Releases, or
 grab the newest build of `main` from the
-[Actions tab](https://github.com/nicoo-o/SpaceHub/actions/workflows/ci.yml)
+[Actions tab](https://github.com/nicoo-o/JellySpace/actions/workflows/ci.yml)
 (artifact `spacehub-main`).
 
 **2. Serve it** with HTTPS on your network. The shortest path is Caddy:
